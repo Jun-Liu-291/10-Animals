@@ -1,2 +1,2 @@
-# 10-Animals-
+# 10-Animals
 Multiple models for classify 10 different animals
